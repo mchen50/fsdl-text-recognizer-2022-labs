@@ -18,3 +18,6 @@ see [Ed Yang's blog post](http://blog.ezyang.com/2019/05/pytorch-internals/).
 
 For more on performance considerations in PyTorch,
 see [Horace He's blog post](https://horace.io/brrr_intro.html).
+
+
+[Choose the best data source for your Amazon SageMaker training job](https://aws.amazon.com/blogs/machine-learning/choose-the-best-data-source-for-your-amazon-sagemaker-training-job/)
